@@ -1,0 +1,11 @@
+.navbar-inverse {
+    background-color: #9954bb;
+    border-color: #b22a2a;
+}
+body {
+    font-family: "Segoe UI", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #ff7518;
+    background-color: #222222;
+}
